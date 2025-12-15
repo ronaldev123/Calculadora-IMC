@@ -9,6 +9,8 @@ Entrada de peso e altura pelo terminal Cálculo automático do IMC Classificaç�
 🚀 Tecnologias Utilizadas
 
 JS
+HTML
+CSS
 
 🧠 Objetivo do Projeto
 
