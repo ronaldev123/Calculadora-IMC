@@ -8,7 +8,7 @@ Entrada de peso e altura pelo terminal Cálculo automático do IMC Classificaç�
 
 🚀 Tecnologias Utilizadas
 
-Python 3
+JS
 
 🧠 Objetivo do Projeto
 
